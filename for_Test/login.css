@@ -1,0 +1,15 @@
+.border{
+    display:block;
+    
+ margin-top: 5%;
+ padding: 5px;
+ margin :2px solid blue;
+
+ text-decoration-color: black;
+ 
+ font-family: 'Times New Roman', Times, serif;
+
+}
+input{
+    background-color: linear-gradient(to bottom right, #64a3b8 33%, #b61867 75%);
+}
